@@ -1,4 +1,4 @@
-# Hi there, I'm Emrecan Michael Sonmez! 👋:
+# Hi there, I'm Emrecan Michael Sonmez! 👋
 But you may call me Misha!<br><br>I am a recent physics and astronomy graduate from Stony Brook University with research experience in strong-lensing simulations and quasar time-delay cosmology, and I bring experience spanning the full end-to-end development cycle required to succeed as a data and AI/ML scientist, from building and validating computationally intensive models to implementing scalable analysis pipelines that produce reliable insight from complex datasets.<br><br>In academic settings, this experience centers on developing empirically grounded inference methods that strengthen the scientific return of next-generation cosmological surveys such as the Vera C. Rubin Observatory (LSST), Dark Energy Spectroscopic Instrument (DESI), SPHEREx, and the Nancy Grace Roman Space Telescope.
 
 ## 🌐 Socials:
