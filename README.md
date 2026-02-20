@@ -1,10 +1,10 @@
 # Hi there, I'm Emrecan Michael Sonmez! 👋
 But you may call me Misha!<br><br>I am a recent physics and astronomy graduate from Stony Brook University with research experience in strong-lensing simulations and quasar time-delay cosmology, and I bring experience spanning the full end-to-end development cycle required to succeed as a data and AI/ML scientist, from building and validating computationally intensive models to implementing scalable analysis pipelines that produce reliable insight from complex datasets.<br><br>In academic settings, this experience centers on developing empirically grounded inference methods that strengthen the scientific return of next-generation cosmological surveys such as the Vera C. Rubin Observatory (LSST), Dark Energy Spectroscopic Instrument (DESI), SPHEREx, and the Nancy Grace Roman Space Telescope.
 
-## 🌐 Socials:
+# 🌐 Socials
 Feel free to connect! I’m always open to collaborating on interesting projects and discussing new ideas across disciplines, not just in astronomy.<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecan-sonmez-53aa1a33a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishasonmez@gmail.com) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 **🧠 Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -40,7 +40,7 @@ Feel free to connect! I’m always open to collaborating on interesting projects
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=emsonmez&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=emsonmez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emsonmez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
