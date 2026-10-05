@@ -2,7 +2,7 @@
 But you may call me Misha!<br><br>I am a recent physics and astronomy grad from Stony Brook, having done research in strong-lensing simulations and quasar time-delay cosmology under Professor Simon Birrer and Dr. Narayan Khadka. I bring experience spanning the full end-to-end development cycle required to succeed as a data and AI/ML scientist, from building and validating computationally intensive models to implementing scalable analysis pipelines that produce reliable insight from complex datasets. Currently seeking 2026/2027 entry-level DS/ML roles where I can bring that background to real-world problems within industry.
 
 # 🌐 Socials
-Feel free to connect! I’m always open to collaborating on interesting projects and discussing new ideas across disciplines (not just in astronomy!).<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecan-sonmez-53aa1a33a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishasonmez@gmail.com) 
+Feel free to connect! I’m always open to collaborating on interesting projects and discussing new ideas across disciplines (not just in astronomy!).<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecan-michael-sonmez-53aa1a33a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishasonmez@gmail.com) 
 
 # 💻 Tech Stack
 **🧠 Languages**  
